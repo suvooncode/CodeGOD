@@ -1,4 +1,3 @@
 <?php
-     echo (2 +3)
-          dfjsfkfdkdsk
+     echo (2 +3);
 ?>
